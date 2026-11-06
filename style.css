@@ -89,7 +89,7 @@ p {
 }
 
 #mainPage {
-  display: none;
+  display: block;
   position: absolute;
   bottom: 0;
   height: calc(100% - 43px);
@@ -269,6 +269,7 @@ h1 {
 }
 
 #achievementsPage {
+  display: none;
   position: absolute;
   bottom: 0;
   height: calc(100% - 43px);
